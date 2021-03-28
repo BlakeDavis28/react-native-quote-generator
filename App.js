@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     marginBottom: 50,
     fontSize: 20,
     fontWeight: "bold",
-    fontFamily: "American Typewriter"
+   fontFamily: "System"
   },
   button: {
     backgroundColor: '#E29F2D',
@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
     marginBottom: 80
   },
   buttonText: {
-    fontFamily: "American Typewriter"
+  fontFamily: "System"
   },
   image: {
     marginBottom: 10,
